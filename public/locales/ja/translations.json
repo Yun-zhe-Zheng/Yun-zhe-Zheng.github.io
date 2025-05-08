@@ -1,6 +1,6 @@
 {
   "header": {
-    "name": "あなたの名前"
+    "name": "Yunzhe Zheng"
   },
   "nav": {
     "bio": "プロフィール",
@@ -10,21 +10,22 @@
     "contact": "連絡先"
   },
   "bio": {
-    "name": "Your Name",
-    "nameJp": "あなたの名前",
+    "name": "Yunzhe Zheng",
+    "nameJp": "鄭赟喆",
     "phd": "Ph.D.",
-    "phdJp": "博士（工学）",
-    "position": "博士研究員",
+    "phdJp": "博士（理学）",
+    "position": "特任研究員",
     "affiliation": "東京大学 総合研究機構",
-    "github": "https://github.com/yourusername",
-    "scholar": "https://scholar.google.com/citations?user=your-id",
-    "orcid": "https://orcid.org/0000-0000-0000-0000",
-    "researchmap": "https://researchmap.jp/yourusername",
-    "linkedin": "https://www.linkedin.com/in/yourusername/",
+    "github": "https://github.com/Yun-zhe-Zheng",
+    "scholar": "https://scholar.google.com/citations?user=9blhh3QAAAAJ&hl",
+    "orcid": "https://orcid.org/0000-0001-8529-9328",
+    "researchmap": "",
+    "linkedin": "",
     "researchInterests": "研究興味",
     "researchTags": [
-      "数学",
-      "物理学"
+      "Scanning transmission electron microscopy",
+      "Ferroelectric physics"
+      "Information functional materials"
     ]
   },
   "publications": {
@@ -60,13 +61,13 @@
     "location": "所在地",
     "relatedLinks": "関連リンク",
     "email": "メールアドレス",
-    "emailAdress": "your.email[at]example.com",
+    "emailAdress": "yzzheng@sigma.t.u-tokyo.ac.jp",
     "phone": "電話番号",
-    "phoneNumber": "+81-3-5841-7689",
+    "phoneNumber": "+81-90-6656-1211",
     "address": "住所",
     "addressLine1": "電子顕微鏡材料学研究室",
     "addressLine2": "東京大学",
-    "addressLine3": "〒113-0032 東京都文京区弥生2-11-16東京大学工学部9号館4F419号室",
+    "addressLine3": "〒113-0032 東京都文京区弥生2-11-16東京大学工学部9号館4F428号室",
     "socialMedia": "",
     "linkedin": "",
     "facebook": "",
