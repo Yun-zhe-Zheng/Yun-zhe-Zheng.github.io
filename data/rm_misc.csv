@@ -1,7 +1,2 @@
 misc
 ID,タイトル(英語),タイトル(日本語),著者(英語),著者(日本語),誌名(英語),誌名(日本語),出版年月,DOI,主要な業績かどうか
-paper-1,Your Paper Title 1,あなたの論文タイトル1,"Author 1, Author 2","著者1, 著者2",Journal Name,ジャーナル名,2023-01,10.1234/abcd,false
-paper-2,Your Paper Title 2,null,"Author 1, Author 2","著者1, 著者2",Journal Name,ジャーナル名,2022-12,10.1234/abcd,true
-paper-3,null,あなたの論文タイトル3,"Author 1, Author 2","著者1, 著者2",Journal Name,ジャーナル名,2024-01,10.1234/abcd,true
-paper-4,Your Paper Title 4,null,"Author 1, Author 2",null,Journal Name,null,2024-11,10.1234/abcd,true
-paper-5,Your Paper Title 5,null,null,"著者1, 著者2",null,ジャーナル名,2020-01,10.1234/abcd,true
