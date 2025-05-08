@@ -1,4 +1,2 @@
 research_projects
 ID,タイトル(日本語),タイトル(英語),提供機関(日本語),提供機関(英語),制度名(日本語),制度名(英語),研究種目(日本語),研究種目(英語),研究期間(From),研究期間(To),課題番号,主要な業績かどうか
-example-id,これは説明用のレコードです,"This is an example record for explanation purposes",提供機関(例),"Funder (Example)",制度名(例),"Program Name (Example)",研究種目(例),"Research Category (Example)",2023-12,2024-12,例-課題番号,false
-45207939,高精度ナノ材料解析技術の開発,"Development of high-precision nanomaterial analysis technology",国際科学振興会,"International Society for Science Promotion",先端科学研究助成事業,"Advanced Science Research Grants",若手研究者奨励費,"Grant-in-Aid for Young Researchers",2021-05-01,2024-04-30,21Y12345,false
