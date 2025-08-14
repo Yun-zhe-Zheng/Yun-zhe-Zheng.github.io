@@ -1,0 +1,42 @@
+[
+  {
+    "id": "career-1",
+    "position": "B.Sc. in Physics",
+    "organization": "Zhengzhou University",
+    "location": "Zhengzhou, China",
+    "startDate": "2014",
+    "endDate": "2018",
+    "description": "",
+    "type": "education"
+  },
+  {
+    "id": "career-2",
+    "position": "Ph.D. in Physical Electronics",
+    "organization": "East China Normal University",
+    "location": "Shanghai, China",
+    "startDate": "2018",
+    "endDate": "2023",
+    "description": "",
+    "type": "education"
+  },
+  {
+    "id": "career-3",
+    "position": "Postdoctoral Researcher",
+    "organization": "East China Normal University",
+    "location": "Shanghai, China",
+    "startDate": "2023",
+    "endDate": "2025",
+    "description": "",
+    "type": "work"
+  },
+  {
+    "id": "career-4",
+    "position": "Project Researcher",
+    "organization": "The University of Tokyo",
+    "location": "Tokyo, Japan",
+    "startDate": "2025",
+    "endDate": null,
+    "description": "",
+    "type": "work"
+  }
+]
