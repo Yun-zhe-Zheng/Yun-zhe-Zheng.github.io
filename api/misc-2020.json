@@ -1,0 +1,15 @@
+[
+  {
+    "id": "paper-5",
+    "title": "Your Paper Title 5",
+    "titleJa": "Your Paper Title 5",
+    "authors": "著者1, 著者2",
+    "authorsJa": "著者1, 著者2",
+    "journal": "ジャーナル名",
+    "journalJa": "ジャーナル名",
+    "year": "2020",
+    "month": "01",
+    "doi": "10.1234/abcd",
+    "isMainWork": true
+  }
+]
