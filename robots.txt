@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# サイトマップの場所
+Sitemap: https://Yun-zhe-Zheng.github.io/sitemap.xml
