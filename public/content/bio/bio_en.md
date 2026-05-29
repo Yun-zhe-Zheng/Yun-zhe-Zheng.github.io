@@ -1,4 +1,6 @@
 
 ## Research Focus
 
-My research focuses on utilizing and developing advanced transmission electron microscopy techniques to investigate atomic-scale mechanisms,such as atomic arrangements, defects, chemical composition, and electromagnetic fields in emerging semiconductor materials，and observing their dynamic structural evolution under operating external fields to inform the development of next-generation information funtional devices. 
+Methodology: Transmission Electron Microscopy, In-situ microscopy, 4D-STEM techniques, Multislice Elctron Ptychography
+Research Object: Dfect Structure, Amorphous or 1D Ordered Structure, Ferroelectroc Oxides, Heterogeneous Interface
+
