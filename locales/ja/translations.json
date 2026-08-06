@@ -1,0 +1,82 @@
+{
+  "header": {
+    "name": "Yunzhe Zheng"
+  },
+  "nav": {
+    "bio": "プロフィール",
+    "publications": "業績",
+    "awards": "受賞・プロジェクト",
+    "career": "経歴",
+    "contact": "連絡先"
+  },
+  "bio": {
+    "name": "Yunzhe Zheng",
+    "nameJp": "鄭赟喆",
+    "phd": "Ph.D.",
+    "phdJp": "博士（理学）",
+    "position": "特任研究員",
+    "affiliation": "東京大学 総合研究機構",
+    "github": "",
+    "scholar": "https://scholar.google.com/citations?user=9blhh3QAAAAJ&hl",
+    "orcid": "https://orcid.org/0000-0001-8529-9328",
+    "researchmap": "",
+    "linkedin": "",
+    "researchInterests": "研究興味",
+    "researchTags": [
+      "Scanning transmission electron microscopy",
+      "Ferroelectric physics",
+      "Information functional materials"
+    ]
+  },
+  "publications": {
+    "title": "研究業績",
+    "papers": "論文",
+    "presentations": "学会発表",
+    "misc": "その他",
+    "allYears": "全年度",
+    "mainWork": "主要業績",
+    "invited": "招待講演",
+    "noPapers": "該当年の論文はありません。",
+    "noPresentations": "該当年の発表はありません。",
+    "showAll": "すべて表示"
+  },
+  "awards": {
+    "title": "受賞・プロジェクト",
+    "honorsAndAwards": "受賞歴",
+    "grants": "研究助成",
+    "projects": "プロジェクト",
+    "noData": "データがありません。",
+    "showAll": "すべて表示"
+  },
+  "career": {
+    "title": "経歴",
+    "education": "学歴",
+    "work": "職歴",
+    "present": "現在",
+    "noData": "経歴データがありません。"
+  },
+  "contact": {
+    "title": "連絡先",
+    "info": "連絡先情報",
+    "location": "所在地",
+    "relatedLinks": "関連リンク",
+    "email": "メールアドレス",
+    "emailAdress": "yzzheng@sigma.t.u-tokyo.ac.jp",
+    "phone": "電話番号",
+    "phoneNumber": "+81-90-6656-1211",
+    "address": "住所",
+    "addressLine1": "電子顕微鏡材料学研究室",
+    "addressLine2": "東京大学",
+    "addressLine3": "〒113-0032 東京都文京区弥生2-11-16東京大学工学部9号館4F428号室",
+    "socialMedia": "",
+    "linkedin": "",
+    "facebook": "",
+    "twitter": "",
+    "labName": "電子顕微鏡材料学研究室",
+    "labURL": "https://www.saaf.t.u-tokyo.ac.jp/"
+  },
+  "footer": {
+    "allRightsReserved": "All Rights Reserved.",
+    "templateText": "このウェブサイトは次のテンプレートを基に作成されています "
+  }
+}
