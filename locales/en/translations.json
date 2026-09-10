@@ -1,0 +1,82 @@
+{
+  "header": {
+    "name": "Yunzhe Zheng"
+  },
+  "nav": {
+    "bio": "About",
+    "publications": "Publications",
+    "awards": "Awards",
+    "career": "Career",
+    "contact": "Contact"
+  },
+  "bio": {
+    "name": "Yunzhe Zheng",
+    "nameJp": "鄭赟喆",
+    "phd": "PhD",
+    "phdJp": "博士（理学）",
+    "position": "Project Researcher",
+    "affiliation": "Institute of Engineering Innovation, The University of Tokyo",
+    "github": "",
+    "scholar": "https://scholar.google.com/citations?user=9blhh3QAAAAJ&hl",
+    "orcid": "https://orcid.org/0000-0001-8529-9328",
+    "researchmap": "https://researchmap.jp/Yunzhe-Zheng",
+    "linkedin": "",
+    "researchInterests": "Research Interests",
+    "researchTags": [
+      "Scanning transmission electron microscopy",
+      "Ferroelectrics physics",
+      "Information functional materials"
+    ]
+  },
+  "publications": {
+    "title": "Publications",
+    "papers": "Papers",
+    "presentations": "Presentations",
+    "misc": "Misc",
+    "allYears": "All Years",
+    "mainWork": "Main Work",
+    "invited": "Invited",
+    "noPapers": "No papers found for this year.",
+    "noPresentations": "No presentations found for this year.",
+    "showAll": "Show All"
+  },
+  "awards": {
+    "title": "Awards & Projects",
+    "honorsAndAwards": "Honors & Awards",
+    "grants": "Grants & Funding",
+    "projects": "Projects",
+    "noData": "No data available.",
+    "showAll": "Show All"
+  },
+  "career": {
+    "title": "Career",
+    "education": "Education",
+    "work": "Work Experience",
+    "present": "Present",
+    "noData": "No career data available."
+  },
+  "contact": {
+    "title": "Contact",
+    "info": "Contact Information",
+    "location": "Location",
+    "relatedLinks": "Related Links",
+    "email": "Email",
+    "emailAdress": "yzzheng@sigma.t.u-tokyo.ac.jp",
+    "phone": "Phone",
+    "phoneNumber": "+81-90-6656-1211",
+    "address": "Address",
+    "addressLine1": "Electron Microscopy and Materials Science Laboratory",
+    "addressLine2": "The University of Tokyo",
+    "addressLine3": "Room 428, Faculty of Engineering Bldg. 9, 2-11-16 Yayoi, Bunkyo-ku, Tokyo 113-0032, Japan",
+    "socialMedia": "",
+    "linkedin": "",
+    "facebook": "",
+    "twitter": "",
+    "labName": "Electron Microscopy and Materials Science Laboratory",
+    "labURL": "https://www.saaf.t.u-tokyo.ac.jp/?lang=en"
+  },
+  "footer": {
+    "allRightsReserved": "All Rights Reserved.",
+    "templateText": "This website is based on a template available on "
+  }
+}
